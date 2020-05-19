@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML TAG Sample IFRAME</title>
+  </head>
+  <body>
+     <h1>インラインフレームの活用事例</h1>
+     <iframe src="https://design.kyusan-u.ac.jp/socialdesign/?森江龍雅/WebSample/index.html" width="480"></iframe>
+  </body>
+</html>
